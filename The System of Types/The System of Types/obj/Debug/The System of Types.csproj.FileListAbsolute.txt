@@ -1,0 +1,7 @@
+D:\Purple School C#\The System of Types\The System of Types\bin\Debug\The System of Types.exe.config
+D:\Purple School C#\The System of Types\The System of Types\bin\Debug\The System of Types.exe
+D:\Purple School C#\The System of Types\The System of Types\bin\Debug\The System of Types.pdb
+D:\Purple School C#\The System of Types\The System of Types\obj\Debug\The System of Types.csproj.AssemblyReference.cache
+D:\Purple School C#\The System of Types\The System of Types\obj\Debug\The System of Types.csproj.CoreCompileInputs.cache
+D:\Purple School C#\The System of Types\The System of Types\obj\Debug\The System of Types.exe
+D:\Purple School C#\The System of Types\The System of Types\obj\Debug\The System of Types.pdb
